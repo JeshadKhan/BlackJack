@@ -1,5 +1,5 @@
 # BlackJack
-A freeware mobile based card game. Developed by Unity cross platform based tool.
+A freeware mobile based card game using Unity cross platform based tool.
 
 <hr />
 
@@ -10,7 +10,7 @@ A freeware mobile based card game. Developed by Unity cross platform based tool.
  * Developed By         : Mitul Islam
  * Profile              : www.github.com/MitulIslam
  * Developed By         : Jeshad Khan
- * Profile              : www.jeshadkhan.com
+ * Profile              : www.github.com/JeshadKhan
  ------------------------------------------------------------------------------
  * Title                : BlackJack
  * Version              : 1.0
