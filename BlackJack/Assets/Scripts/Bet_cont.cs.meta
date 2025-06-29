@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8766e7970e27e304a832a3ac2d088c2f
+timeCreated: 1434565642
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Bet: {fileID: 163808, guid: d130f396d56a7414da463c11f88ae975, type: 2}
+  - Clear: {instanceID: 0}
+  - hit: {instanceID: 0}
+  - stand: {instanceID: 0}
+  - green_chip: {instanceID: 0}
+  - red_chip: {instanceID: 0}
+  - black_chip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
